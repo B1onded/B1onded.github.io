@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+}
+
+button {
+    background-color:blue;
+    color:rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    height: 2000px;
+    width: 2000px;
+    padding: 20px 32px;
+    text-align: center;
+    font-size: 70px;
+    font-variant: small-caps;
+    font-weight: 800;
+}
+
+h1 {
+
+        font-family:Arial, Helvetica, sans-serif;
+        background:blue;
+        color: rgb(255, 255, 255);
+        font-size: 70px;
+        font-style: normal;
+        text-align: center;
+        font-weight: 800;
+        font-variant:normal;
+}
+
+.buttons {
+    display:grid; 
+    grid-template-columns: 1fr;
+    gap: 40px;
+    margin-bottom: 100px;
+    border: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align:justify;
+}
+
+a {
+    font-family:Arial, Helvetica, sans-serif;
+        background:white;
+        color: rgb(0, 0, 104);
+        font-size: 25px;
+        font-style: normal;
+        text-align: center;
+        text-decoration: none;
+        font-weight: 200;
+        padding: 16px;
+        border-radius: 200px;
+        line-height: 3.0;
+        margin-bottom: 50px;
+        
+        
+}
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    
+
+}
